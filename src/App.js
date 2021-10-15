@@ -7,10 +7,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>
-          Vanessa Schade
-          <FinalProjects />
-        </h1>
+        <h1>Vanessa Schade</h1>
+        <FinalProjects />
       </header>
     </div>
   );
