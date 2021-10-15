@@ -3,11 +3,19 @@
   --secondary-font: "Rochester", serif;
   --background: #002b4b;
   --primary-color: #b8ffe9;
-  --secondary-color: ##00c2c2;
+  --secondary-color: #00c2c2;
 }
 
 .App {
   text-align: center;
   background-color: var(--background);
   min-height: 100vh;
+}
+
+.App h1 {
+  font-family: var(--secondary-font);
+  font-size: 80px;
+  color: var(--primary-color);
+  padding-top: 90px;
+  padding-bottom: 80px;
 }

@@ -1,4 +1,5 @@
 import React from "react";
+import "./FinalProjects.css";
 
 export default function FinalProjects() {
   return (

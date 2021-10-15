@@ -1,0 +1,19 @@
+.FinalProjects .weatherApp {
+  padding: 0;
+  list-style: none;
+}
+
+.FinalProjects .btn {
+  background: #00c2c2;
+  color: white;
+  border-radius: 35px;
+  font-size: 30px;
+  font-weight: 600;
+  padding: 15px 20px;
+  transition: ease-in-out;
+}
+
+.FinalProjects .btn:hover {
+  color: white;
+  font-weight: 700;
+}
