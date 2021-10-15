@@ -1,5 +1,15 @@
+:root {
+  --main-font: "Poppins", sans-serif;
+  --secondary-font: "Rochester", serif;
+  --background: #002b4b;
+  --primary-color: #b8ffe9;
+  --secondary-color: ##00c2c2;
+}
+
 .App {
   text-align: center;
+  background: var(--background);
+  min-height: 100vh;
 }
 
 .App-logo {
