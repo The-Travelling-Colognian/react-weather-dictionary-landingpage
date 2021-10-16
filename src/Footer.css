@@ -11,8 +11,10 @@
   color: var(--secondary-color);
 }
 
-@media (min-width: 280px) {
+@media (min-width: 280px) and (max-width: 400px) {
   .Footer {
     font-size: 13px;
+    margin-left: 5px;
+    margin-right: 5px;
   }
 }

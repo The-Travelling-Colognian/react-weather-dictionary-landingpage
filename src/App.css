@@ -20,7 +20,12 @@
   padding-bottom: 100px;
 }
 
-@media (min-width: 280px) {
+@media (min-width: 280px) and (max-width: 400px) {
+  .App .App-md,
+  .App-sm {
+    margin: 0 auto;
+  }
+
   .App h1 {
     font-size: 60px;
   }
