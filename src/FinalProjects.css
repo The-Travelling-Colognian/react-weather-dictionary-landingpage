@@ -9,13 +9,13 @@
 
 .FinalProjects .btn {
   background: #00c2c2;
-  color: var(--primary-color);
+  color: white;
   border: 2px solid #00c2c2;
   border-radius: 35px;
   font-size: 30px;
   font-weight: 600;
   padding: 15px 20px;
-  transition: all 200ms ease-in-out;
+  transition: all 150ms ease-in-out;
 }
 
 .FinalProjects .btn:hover {
