@@ -1,0 +1,12 @@
+.Footer {
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--primary-color);
+  opacity: 0.8;
+  padding: 240px 0 60px 0;
+}
+
+.Footer a {
+  text-decoration: none;
+  color: var(--secondary-color);
+}
