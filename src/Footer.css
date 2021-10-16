@@ -3,7 +3,7 @@
   font-weight: 400;
   color: var(--primary-color);
   opacity: 0.8;
-  padding: 240px 0 60px 0;
+  padding: 250px 0 60px 0;
 }
 
 .Footer a {
@@ -14,5 +14,11 @@
 @media (min-width: 280px) {
   .Footer {
     font-size: 13px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .Footer {
+    padding-bottom: 10px;
   }
 }
