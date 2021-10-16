@@ -13,14 +13,23 @@ export default function Footer() {
       >
         Vanessa Schade
       </a>{" "}
-      and open-sourced on
+      open-sourced on
       <a
-        href="https://github.com/The-Travelling-Colognian"
+        href="https://github.com/The-Travelling-Colognian/react-weather-dictionary-landingpage"
         target="_blank"
         rel="noreferrer noopener"
       >
         {" "}
         GitHub
+      </a>
+      , and hosted on{" "}
+      <a
+        href="https://romantic-leakey-5172b8.netlify.app/"
+        target="_blank"
+        rel="noreferrer noopener"
+      >
+        {" "}
+        Netlify
       </a>
     </div>
   );
