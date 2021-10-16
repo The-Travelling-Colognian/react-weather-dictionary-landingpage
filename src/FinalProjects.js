@@ -5,7 +5,7 @@ export default function FinalProjects() {
   return (
     <div className="FinalProjects">
       <div className="row">
-        <div className="col-6 weatherApp">
+        <div className="col-6 weatherApp d-flex justify-content-evenly">
           <a
             className="weatherApp btn btn-branding"
             href="https://competent-almeida-bddaf5.netlify.app/"
@@ -15,7 +15,7 @@ export default function FinalProjects() {
             React Weather App
           </a>
         </div>
-        <div className="col-6 dictionaryApp">
+        <div className="col-6 dictionaryApp d-flex justify-content-evenly">
           <a
             className="weatherApp btn btn-branding"
             href="https://infallible-visvesvaraya-096ea3.netlify.app/"
